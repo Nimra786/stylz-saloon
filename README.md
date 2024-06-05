@@ -47,6 +47,8 @@ Automate the login functionality ensuring successful authentication with valid c
 Test invalid login scenarios, such as incorrect username or password, and verify appropriate error messages.
 
 For all these test cases related to login I created two file loginPage.js for objects and loginSpec.cy.js for test cases
+### Results
+<img width="516" alt="image" src="https://github.com/Nimra786/stylz-saloon/assets/36774404/eb1ea95b-eb13-4589-9f44-3c1930226561">
 
   
 ## 🚀 About Me
